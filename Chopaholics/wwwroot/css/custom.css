@@ -1,0 +1,10 @@
+﻿.custom-navbar {
+    background-color: darkgray;
+}
+.custom-navbar .navbar-brand {
+    padding: 0.5rem; /* adjust the padding value to vertically center the logo */
+}
+
+.custom-navbar .navbar-nav {
+    margin-top: 0.5rem; /* adjust the margin value to vertically center the navigation links */
+}
